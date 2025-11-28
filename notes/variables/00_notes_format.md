@@ -6,7 +6,6 @@
 * Explain its role in session, window, or pane management.
 
 * State the default value assigned by `tmux`.
-* Include notes on any version-specific differences.
 
 * **scope**: Indicate whether the variable is global, session-specific, window-specific, or pane-specific.
 
