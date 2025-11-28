@@ -30,12 +30,6 @@ Highlight key characteristics that influence how a learner should think about th
 
 ---
 
-## Interaction With Other tmux Constructs
-
-Identify important relationships with other commands or features. Provide minimal conceptual cross-references to help contextual navigation through the configuration space.
-
----
-
 ## Minimal Working Example
 
 Provide a single, small, didactic example illustrating usage without deep parameterization. Keep the example focused strictly on syntax comprehension.
