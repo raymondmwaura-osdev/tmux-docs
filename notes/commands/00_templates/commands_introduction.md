@@ -10,7 +10,7 @@ Explain how the command interacts with tmux’s core abstractions (server, sessi
 
 ## Canonical Syntax Pattern
 
-Present the generic form of the command without enumerating flags. Illustrate structural syntax (e.g., `command [target] [parameters]`). Avoid operational minutiae; focus on shape and usage expectations.
+Present the generic form of the command. Illustrate structural syntax (e.g., `command [target] [parameters]`) and explain all the flags, briefly but clearly explain.
 
 ---
 
