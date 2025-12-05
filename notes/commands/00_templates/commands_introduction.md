@@ -32,6 +32,6 @@ Highlight key characteristics that influence how a learner should think about th
 
 ## Minimal Working Example
 
-Provide a single, small, didactic example illustrating usage without deep parameterization. Keep the example focused strictly on syntax comprehension.
+Provide 1-3 progressively complex examples illustrating usage.
 
 ---
